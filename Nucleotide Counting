@@ -1,0 +1,7 @@
+DNA = ''
+A = DNA.count('A')
+C = DNA.count('C')
+G = DNA.count('G')
+T = DNA.count('T')
+answer = str(A) + ' ' + str(C) + ' ' + str(G) + ' ' + str(T)
+print(answer)
